@@ -26,5 +26,8 @@ An interactive Tableau dashboard analyzing employee compensation, salary distrib
 ## Tableau Public
 https://public.tableau.com/app/profile/ise.oluwa.ishola
 
+## LinkedIn
+(http://linkedin.com/in/iseoluwa-ishola-104b4a373)
+
 ## Contact
-LinkedIn: (http://linkedin.com/in/iseoluwa-ishola-104b4a373)
+isholaiseoluwa7@gmail.com
