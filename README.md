@@ -1,6 +1,6 @@
 # Hi, I'm Iseoluwa Ishola
 
-Data Analyst with experience in SQL, Excel, Tableau and Power BI specializing in transforming complex datasets into clear and actionable insights. I have a strong background in data analysis, reporting, and dashboard development, with a focus on building visualizations that help organizations understand trends, evaluate performance, and support data-driven decision-making.
+Data Analyst|BI Developer with experience in SQL, Excel, Tableau and Power BI specializing in transforming complex datasets into clear and actionable insights. I have a strong background in data analysis, reporting, and dashboard development, with a focus on building visualizations that help organizations understand trends, evaluate performance, and support data-driven decision-making.
 
 I enjoy working with structured data to uncover patterns, analyze business metrics, and present insights through intuitive dashboards and analytical reports.
 
