@@ -4,6 +4,9 @@ My projects focus on database design, financial data analysis, and executive-lev
 ## Dashboard Preview
 ![Employee Compensation Dashboard](https://raw.githubusercontent.com/Ise-Ishola/Employee-Compensation-Analysis/main/Tableau-Dashboard-Preview.png)
 
+Interactive version available on Tableau Public: 
+https://public.tableau.com/app/profile/ise.oluwa.ishola/viz/DatavisualizationforC-suite/Dashboard1
+
 ## Skills
 
 * SQL
