@@ -2,7 +2,7 @@ Business Intelligence Developer specializing in SQL, Tableau, Excel, and data vi
 My projects focus on database design, financial data analysis, and executive-level reporting dashboards used to evaluate performance metrics and support data-driven decisions.
 
 ## Dashboard Preview
-![Employee Compensation Dashboard](Tableau-Dashboard-Preview.png)
+![Employee Compensation Dashboard](https://raw.githubusercontent.com/Ise-Ishola/Employee-Compensation-Analysis/main/Tableau-Dashboard-Preview.png)
 
 ## Skills
 
