@@ -1,8 +1,8 @@
-# Hi, I'm Iseoluwa
+Business Intelligence Developer specializing in SQL, Tableau, Excel, and data visualization. I build dashboards and analytics solutions that transform complex datasets into clear insights for decision-makers.
+My projects focus on database design, financial data analysis, and executive-level reporting dashboards used to evaluate performance metrics and support data-driven decisions.
 
-Data Analyst / BI Developer with experience in SQL, Excel, Tableau and Power BI specializing in transforming complex datasets into clear and actionable insights. I have a strong background in data analysis, reporting, and dashboard development, with a focus on building visualizations that help organizations understand trends, evaluate performance, and support data-driven decision-making.
-
-I enjoy working with structured data to uncover patterns, analyze business metrics, and present insights through intuitive dashboards and analytical reports.
+## Dashboard Preview
+![Employee Compensation Dashboard](link-to-image)
 
 ## Skills
 
@@ -17,15 +17,15 @@ I enjoy working with structured data to uncover patterns, analyze business metri
 ## Featured Projects
 Below are selected projects demonstrating database design, data analysis, and business intelligence reporting using SQL, Tableau, and Excel
 
-* Employee Compensation Analysis Dashboard - Tableau dashboard analyzing salary distribution and workforce compensation trends
+* Employee Compensation Analysis Dashboard (Tableau) - HR analytics dashboard analyzing salary distribution, workforce composition, and gender pay equity
   
-* Union Bank Loan Database Design – SQL database schema and relational data model for a financial loan system
+* Union Bank Loan Database Design (SQL DDL) – Relational schema and normalized data model for a financial loan management system
   
 * Superstore Sales Performance Dashboard – Excel dashboard analyzing sales performance and regional trends.
 
-* Skybarrel Investment Database Operations – SQL DML queries analyzing investment transactions and portfolio performance
+* Skybarrel Investment Database Operations (SQL DML) – SQL queries analyzing portfolio transactions and investment performance
 
-* Borrower Loan Analytics Reporting – SQL queries extracting borrower and loan performance insights
+* Borrower Loan Analytics Reporting (SQL DQL) - Analytical queries extracting loan performance insights
 
 
 ## Tableau Public
