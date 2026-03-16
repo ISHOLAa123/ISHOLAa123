@@ -5,23 +5,28 @@ Data Analyst / BI Developer with experience in SQL, Excel, Tableau and Power BI 
 I enjoy working with structured data to uncover patterns, analyze business metrics, and present insights through intuitive dashboards and analytical reports.
 
 ## Skills
-* SQL  
-* Tableau  
-* Microsoft Excel  
-* Data Visualization  
+
+* SQL
+* Tableau
+* Microsoft Excel
+* Power BI
+* Data Visualization
 * Business Intelligence  
 * Data Analysis  
 
-## Portfolio Projects
+## Featured Projects
+Below are selected projects demonstrating database design, data analysis, and business intelligence reporting using SQL, Tableau, and Excel
 
-SQL Data Analysis  
-A SQL project demonstrating database querying, joins, aggregations, and analytical reporting using relational datasets.
+* Employee Compensation Analysis Dashboard - Tableau dashboard analyzing salary distribution and workforce compensation trends
+  
+* Union Bank Loan Database Design – SQL database schema and relational data model for a financial loan system
+  
+* Superstore Sales Performance Dashboard – Excel dashboard analyzing sales performance and regional trends.
 
-Excel Sales Dashboard  
-A business-focused Excel dashboard analyzing sales performance using pivot tables, calculated metrics, and data visualization.
+* Skybarrel Investment Database Operations – SQL DML queries analyzing investment transactions and portfolio performance
 
-Tableau Compensation Analytics Dashboard  
-An interactive Tableau dashboard analyzing employee compensation, salary distribution, workforce composition, and gender pay gap across organizational levels.
+* Borrower Loan Analytics Reporting – SQL queries extracting borrower and loan performance insights
+
 
 ## Tableau Public
 https://public.tableau.com/app/profile/ise.oluwa.ishola
